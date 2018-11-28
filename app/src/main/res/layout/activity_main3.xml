@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_orange_dark"
+    tools:context=".Main3Activity">
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CONTACT INFO"
+        android:fontFamily="sans-serif"
+        android:textSize="30dp"
+        android:textStyle="bold"
+
+        android:textFontWeight="bold"
+        android:background="@android:color/holo_blue_dark"
+        android:textAlignment="center"
+
+        android:layout_margin="0dp"/>
+    <Button
+        android:id="@+id/buttont"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="TEACHING STAFF" />
+
+    <Button
+        android:id="@+id/buttonnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="NON TEACHING STAFF" />
+</LinearLayout>

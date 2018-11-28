@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context=".Main2Activity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ISE"
+        android:layout_weight="1"
+        android:layout_marginTop="3dp"
+
+        android:layout_marginBottom="3dp"
+        android:background="@android:color/holo_blue_light"
+
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_marginBottom="3dp"
+        android:layout_weight="1"
+
+        android:text="CSE" />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="ECE" />
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="EEE" />
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="TELECOM" />
+    <Button
+    android:id="@+id/button6"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/holo_blue_light"
+    android:layout_weight="1"
+
+    android:layout_marginBottom="3dp"
+    android:text="BT" />
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="IEM" />
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="CIVIL" />
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="MECHANICAL" />
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="EI" />
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="CHEM" />
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="MATH" />
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_light"
+        android:layout_weight="1"
+
+        android:layout_marginBottom="3dp"
+        android:text="ASE" />
+
+
+
+</LinearLayout>
